@@ -1,1 +1,32 @@
-Hii
+<html>
+<head><title>Landing Page</title></head>
+<body>
+<body style="background-color: rgb(28, 37, 41);">
+
+<style>
+    a:link, a:visited {
+      background-color: #f44336;
+      border-radius: 500px;
+      color: white;
+      padding: 3px 7px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    a:hover, a:active {
+      background-color: red;
+    }
+</style>
+<hr size="2" style="margin-top: 20px;">
+<p style="color: White; font-size: 40px; margin-top: 10px;margin-left: 40px;"><I>Landing Page</I></p>
+<p style="color: White; font-size: 25px; margin-top: -70px;margin-left: 700px;"><a style="text-decoration:none" class="a" href>Home</a></p>
+<p style="color: White; font-size: 25px; margin-top: -60px;margin-left: 790px;"><a style="text-decoration:none" class="a" href>About Us</a></p>
+<p style="color: White; font-size: 25px; margin-top: -60px;margin-left: 910px;"><a style="text-decoration:none" class="a" href>Adminstration</a></p>
+<p style="color: White; font-size: 25px; margin-top: -60px;margin-left: 1080px;"><a style="text-decoration:none" class="a" href>Contact us</a></p>
+<hr size="3" color="white" style="margin-top: -10px;">
+
+<img src="mit.jpg" style="border-radius: 200px;width: 300px;height: 300px;margin-left: 200px;margin-top: 70px;" size="10">
+<p style="color: White;font-size: 25px;margin-left: 550px;margin-top: -200px;"><I>Massachusetts Institute of Technology (MIT), privately controlled coeducational institution of higher learning famous for its scientific and technological training and research. It was chartered by the state of Massachusetts in 1861 and became a land-grant college in 1863.</I></p>
+</body>
+</html>
